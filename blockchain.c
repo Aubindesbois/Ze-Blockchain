@@ -15,5 +15,4 @@ void addBlock (Blockchain blockchain, int maxTrans){
   
   (blockchain->size)++;
   
-
 }
